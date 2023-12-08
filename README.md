@@ -2,7 +2,7 @@
 # Task Description
 
 Your task is to create a simple UI page that fetches and displays a list of 50 GitHub users using either a JavaScript framework of your choice or plain HTML and JavaScript. The page should allow the user to filter the displayed users by their usernames.
-Functional Requirements:
+
 
 
 # GitHub API Integration:
@@ -26,7 +26,6 @@ Functional Requirements:
 Make efficient use of the GitHub API to minimize unnecessary requests.
 
 # Evaluation Criteria:
-## Candidates will be evaluated based on the following criteria:
 - Successful integration with the GitHub API to fetch user data.
 - Implementation of a filtering mechanism for usernames.
 - Quality of the user interface and overall design.
